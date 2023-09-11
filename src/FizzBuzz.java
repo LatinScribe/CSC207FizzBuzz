@@ -1,5 +1,6 @@
 /**
  * Solve the FizzBuzz challenge.
+ * Author: Henry Chen
  */
 class FizzBuzz {
 
